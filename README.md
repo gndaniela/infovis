@@ -1,5 +1,5 @@
 # infovis
 
-guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
-github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
