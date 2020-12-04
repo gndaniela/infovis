@@ -13,3 +13,5 @@
 * [MakeoverMonday 2020 W44 - Tableau](https://gndaniela.github.io/infovis/w44_tableau.html)
 
 * [Rolling Stones (Spotify Analysis) - Tableau](https://gndaniela.github.io/infovis/RS_tableau.html)
+
+* [Rolling Stones (Spotify Analysis) - Tableau](https://gndaniela.github.io/infovis/RSt_tableau.html)
